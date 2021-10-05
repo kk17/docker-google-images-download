@@ -1,0 +1,12 @@
+{
+    "Records": [
+        {
+            "keywords": "merlion",
+            "limit": 250,
+            "size": "large",
+            "print_urls": true,
+            "format": "jpg",
+            "chromedriver": "/chromedriver/chromedriver"
+        }
+    ]
+}
